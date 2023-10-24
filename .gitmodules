@@ -1,0 +1,3 @@
+[submodule "Settings"]
+	path = Settings
+	url = git@gitlab.com:takahiro-itou/VagrantSettings.git
