@@ -1,0 +1,4 @@
+
+%include  ~/Settings/Hg/Hg.rc
+%include  ~/LocalSettings/Hg/HgrcLocal
+

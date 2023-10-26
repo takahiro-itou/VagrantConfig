@@ -1,0 +1,12 @@
+
+[include]
+    path        =  ~/Settings/Git/GitConfig
+
+[user]
+    name        =  Takahiro Itou
+    email       =  6907757+takahiro-itou@users.noreply.github.com
+    signingkey  =  AA1A8905C342D77DC04395C141B3F98BB77BF32A
+
+[gpg]
+    program     =  gpg
+
