@@ -1,9 +1,9 @@
 [submodule "Settings"]
 	path = Settings
-	url = git@gitlab.com:takahiro-itou/VagrantSettings.git
+	url = ../VagrantSettings.git
 [submodule "LocalSettings"]
 	path = LocalSettings
-	url = git@gitlab.com:takahiro-itou/LocalSettings-Vagrant.git
+	url = ../LocalSettings-Vagrant.git
 [submodule "InitVagrantWork"]
 	path = InitVagrantWork
-	url = git@gitlab.com:takahiro-itou/InitVagrantWork.git
+	url = ../InitVagrantWork.git
