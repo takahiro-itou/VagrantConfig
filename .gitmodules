@@ -7,3 +7,6 @@
 [submodule "InitVagrantWork"]
 	path = InitVagrantWork
 	url = ../InitVagrantWork.git
+[submodule "tools/hg-convert"]
+	path = tools/hg-convert
+	url = git@gitlab.com:takahiro-itou/hg-convert.git
